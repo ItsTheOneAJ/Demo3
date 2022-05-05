@@ -8,6 +8,6 @@ public class SkillDemoTester {
     
     @Test
     public void subtractTest(){
-        assertEquals(1, SkillDemo.subtract(1, 3)); //Failing test
+        assertEquals(1, SkillDemo.subtract(1, 1)); //Failing test
     }
 }
